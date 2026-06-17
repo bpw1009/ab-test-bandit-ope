@@ -20,7 +20,7 @@ Eight visualizations illustrate the key concepts, from the personalization probl
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook ab_test_vs_bandit_ope_with_viz.ipynb
+jupyter notebook ab_test_vs_bandit_ope_with_viz_2.ipynb
 ```
 
 ## Requirements
